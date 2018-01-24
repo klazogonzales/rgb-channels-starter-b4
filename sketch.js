@@ -41,7 +41,7 @@ function draw(){
     else{
         image(lpkidsgray, 50, 50);
     }
-              blendMode(NORMAL);
-            image(television, 0, 0);
+        blendMode(NORMAL);
+        image(television, 0, 0);
 
 }
